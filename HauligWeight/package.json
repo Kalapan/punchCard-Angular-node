@@ -1,0 +1,29 @@
+{
+  "name": "HauligWeight",
+  "description": "HauligWeight",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "author": "Kalapan",
+  "engines": {
+    "node": "6.9.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.3",
+    "crypto-js": "3.1.9-1",
+    "express": "4.0.0",
+    "lodash": "4.17.4",
+    "moment": "2.18.1",
+    "mongodb": "2.2.26",
+    "mongoose": "4.11.9",
+    "multer": "1.3.0",
+    "node-mailjet": "3.2.1",
+    "request": "2.81.0",
+    "sendgrid": "5.1.1",
+    "socket.io": "2.0.2"
+  }
+}
